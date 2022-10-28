@@ -21,7 +21,7 @@
 
 
       <div @click="getAdvice"
-        class="bg-Neon-Green-pr w-20 h-20 rounded-full absolute -bottom-[8%] left-[40%] md:-bottom-[7%] md:left-[43%] flex justify-center items-center mt-10">
+        class="bg-Neon-Green-pr w-20 h-20 rounded-full absolute z-10 -bottom-[8%] left-[40%] md:-bottom-[7%] md:left-[43%] flex justify-center items-center mt-10 hover:shadow-Neon-Green-pr shadow-2xl cursor-pointer">
         <div class="bg-icon-dice h-8 w-8 bg-cover"></div>
       </div>
     </div>
